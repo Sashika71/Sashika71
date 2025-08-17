@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sashika Hansani</h1>
  ## 🌟 About Me  
+
 🎓 Undergraduate Student at **Sabaragamuwa University of Sri Lanka**  
 📚 Following **BSc. (Hons) in Computing & Information Systems**  
 
 - 🔭 Currently learning **Java, Web Development, and Databases**  
-- 💻 Passionate about **Software Development | Cloud & Edge Computing | Problem Solving** 
+- 💻 Passionate about **Software Development | Cyber Security | Problem Solving** 
 ---
 
 - 📫 How to reach me sashikahansanii@gmail.com
