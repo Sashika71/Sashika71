@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sashika Hansani</h1>
-## 🌟 About Me  
+<h3 align="center">Passionate IT Student</h3>
+ 🌟 **About Me**  
 
 🎓 Undergraduate Student at **Sabaragamuwa University of Sri Lanka**  
 📚 Following **BSc. (Hons) in Computing & Information Systems**  
