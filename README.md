@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #1E40AF; font-size: 50px;">Hi 👋, I'm Sashika Hansani</h1>
+<h1 align="center" style="color: #1E40AF; font-size: 50px;">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Sashika Hansani</h1>
 <h3 align="center" style="color: #2563EB; font-style: italic;">Passionate IT Student</h3>
 
 ### 🌟 About Me
