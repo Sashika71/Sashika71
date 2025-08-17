@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sashika Hansani</h1>
+---
 - 📫 How to reach me **sashikahansanii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
