@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sashika Hansani</h1>
-<h3 align="center">Passionate IT Student</h3>
- 🌟 **About Me**  
+<h1 align="center" style="color: #1E40AF; font-size: 50px;">Hi 👋, I'm Sashika Hansani</h1>
+<h3 align="center" style="color: #2563EB; font-style: italic;">Passionate IT Student</h3>
+
+### 🌟 About Me
 
 🎓 Undergraduate Student at **Sabaragamuwa University of Sri Lanka**  
 📚 Following **BSc. (Hons) in Computing & Information Systems**  
