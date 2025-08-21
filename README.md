@@ -17,6 +17,25 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sashika-hansani-5495a6334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sashika-hansani-5495a6334/" height="30" width="40" /></a>
 </p>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width='30'> <b>Github Stats</b>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Sashika71&theme=chartreuse-dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sashika71&theme=chartreuse-dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+  <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sashika71&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+</tr>
+</table>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<p>
+
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
