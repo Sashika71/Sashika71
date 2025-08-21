@@ -11,7 +11,8 @@
 ---
 
 - 📫 How to reach me sashikahansanii@gmail.com
----
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width='30'> <b>Github Stats</b>
 <table align="center">
 <tr border="none">
@@ -71,9 +72,10 @@
   </a>
 </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p>
-<h3 align="left">### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'>Connect with me:</h3>
+<h3 align="left"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'>Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sashika-hansani-5495a6334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sashika-hansani-5495a6334/" height="30" width="40" /></a>
 </p>
