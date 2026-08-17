@@ -7,7 +7,7 @@
 📚 Following **BSc. (Hons) in Computing & Information Systems**  
 
 - 🔭 Currently learning **Java, Web Development, and Databases**  
-- 💻 Passionate about **Software Development | Cyber Security | Problem Solving** 
+- 💻 Passionate about **Software Development | Problem Solving** 
 ---
 
 - 📫 How to reach me sashikahansanii@gmail.com
