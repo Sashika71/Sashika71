@@ -3,11 +3,7 @@
   Hi, I'm Sashika Hansani
 </h1>
 
-<h3 align="center">Software Developer | DevOps  Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Software+Development+%7C+DevOps+%7C+QA;Building+Cool+Stuff+One+Commit+at+a+Time" alt="Typing SVG" />
-</p>
+<h3 align="center">Software Developer | DevOps Enthusiat</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sashika-hansani-5495a6334/" target="_blank">
